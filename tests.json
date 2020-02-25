@@ -1,0 +1,34 @@
+{
+    "test1": {
+        "input": 123,
+        "output": "One Hundred Twenty Three"
+    },
+    "test2": {
+        "input": 12345, 
+        "output": "Twelve Thousand Three Hundred Forty Five"
+    },
+    "test3": {
+        "input": 1234567,
+        "output": "One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven"
+    },
+    "test4": {
+        "input": 1234567891,
+        "output": "One Billion Two Hundred Thirty Four Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety One"
+    },
+    "test5": {
+        "input": 1134456870,
+        "output": "One Billion One Hundred Thirty Four Million Four Hundred Fifty Six Thousand Eight Hundred Seventy" 
+    },
+    "test6": {
+        "input": 1000000,
+        "output": "One Million"
+    },
+    "test7": {
+        "input": 1100000,
+        "output": "One Million One Hundred Thousand"
+    },
+    "test8": {
+        "input": 1110000,
+        "output": "One Million One Hundred Ten Thousand"
+    }
+}
